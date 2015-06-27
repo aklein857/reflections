@@ -20,3 +20,8 @@ Branches are useful to test certain experimental changes without effecting the m
 asteroids game, an easy mode branch was created that makes the asteroids split into 2 pieces instead of 3. The 
 commits for this branch were exactly the same up to the latest commit and the master branch will not have the latest
 changes. 
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help visualize the branch structure by showing the linear path of each branch and where they meet.
+It is useful to know that each named branch can be found by logging. 
