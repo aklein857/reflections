@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When a repository is initialized, a .git metadata file is added to the directory location. The location is now an 
+empty repository. 
