@@ -2,3 +2,10 @@ What happens when you initialize a repository? Why do you need to do it?
 
 When a repository is initialized, a .git metadata file is added to the directory location. The location is now an 
 empty repository. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different because it is in a limbo. The working directory has already been created and is stored on
+the hard drive. The repository has been created also and is waiting for the files to be inserted into it. The staging
+area offers the ability to add multiple files in one commit. 
+
