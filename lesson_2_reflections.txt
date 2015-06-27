@@ -9,3 +9,7 @@ The staging area is different because it is in a limbo. The working directory ha
 the hard drive. The repository has been created also and is waiting for the files to be inserted into it. The staging
 area offers the ability to add multiple files in one commit. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can use the staging area in this way to view the files you are about to commit and make sure they are logical choices. 
+Also you can use git diff --staged to compare what is staged to the latest commit.  
